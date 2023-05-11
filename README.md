@@ -1,5 +1,8 @@
-- 👨‍🎓 Hoje estudo Sistema de Informção
-- 💂‍♂️ Sou Militar  
+<h4>SE FOR DIFÍCIL EU FAÇO, SE FOR IMPOSSIVEL, ME DÁ MAIS 5 MINUTOS.</h4>
+
+- 👨‍🎓 Hoje estudo Sistema de Informção.
+- 💂‍♂️ Sou Militar.
+- 👨‍💻 Estudando HTML5, CSS3, JavaScript.
 
 <!-- -->
 <div> 
@@ -7,6 +10,7 @@
   <img height="125em" src="https://github-readme-stats.vercel.app/api?username=eduardoosilva99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoosilva99&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 ## <!--icone-->
 
@@ -18,8 +22,8 @@
     <img align="center" alt="eduardosilva-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
   
-  ## <!--rede social-->
   
+## <!--rede social-->  
 <div>
       <a href="https://instagram.com/eduardo_oliveira0701/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/eduardo-de-oliveira-silva-4471aa235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
