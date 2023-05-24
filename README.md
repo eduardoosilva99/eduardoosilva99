@@ -1,6 +1,6 @@
 <h4>SE FOR DIFÍCIL EU FAÇO, SE FOR IMPOSSIVEL, ME DÁ MAIS 5 MINUTOS.</h4>
 
-- 👨‍🎓 Hoje estudo Sistema de Informção.
+- 👨‍🎓 Hoje estudo Sistema de Informação.
 - 💂‍♂️ Sou Militar.
 - 👨‍💻 Estudando HTML5, CSS3, JavaScript.
 
