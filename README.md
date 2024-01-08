@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Hoje estudo Sistema de Informação.
 - 💂‍♂️ Sou Militar.
-- 👨‍💻 Estudando HTML5, CSS3, JavaScript.
+- 👨‍💻 Estudando HTML5, CSS3, JavaScript, Python.
 
 <!-- -->
 <div> 
