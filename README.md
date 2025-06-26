@@ -24,7 +24,8 @@
           
 </div>
   
-  
+  ![5b7727a81ba43e16eb57caa1abe7dd04 (1)](https://github.com/user-attachments/assets/65595504-fea1-4edf-bc75-7e3303e2cc75)
+
 ## <!--rede social-->  
 <div>
     <a href="https://instagram.com/eduardo_oliveira0701/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
