@@ -24,7 +24,12 @@
           
 </div>
   
-  ![5b7727a81ba43e16eb57caa1abe7dd04 (1)](https://github.com/user-attachments/assets/65595504-fea1-4edf-bc75-7e3303e2cc75)
+  ## 
+
+ <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <img src="https://github.com/eduardoosilva99/barbeariaok/blob/main/sistema/animacao.gif" width="220">
+
+##
 
 ## <!--rede social-->  
 <div>
