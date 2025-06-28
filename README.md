@@ -23,11 +23,12 @@
     <img align="center" alt="eduardosilva-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="eduardosilva-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="eduardosilva-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-    <img align="center" alt="eduardosilva-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    
-    
-          
+    <img align="center" alt="eduardosilva-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />        
 </div>
+
+ <div><br>
+  <img src="https://github.com/eduardoosilva99/aplicacao/blob/main/header.png">
+ </div><br>
   
   ## 
 
