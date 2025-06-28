@@ -9,8 +9,8 @@
 <h3> 📚 Github Stats: <br></h3>
 <div>
   <a href="[https://github.com/eduardoosilva99](https://github.com/eduardoosilva99)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardoosilva99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoosilva99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardoosilva99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoosilva99&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"/>
                       
 </div>
 
