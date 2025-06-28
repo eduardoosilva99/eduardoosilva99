@@ -30,11 +30,11 @@
  </div><br>
   
   ## 
-
- <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+<div align="center" style="display: inline_block">
+ <i> A meta é olhar para o céu e dizer: 'Deus, eu consegui graças a Ti!❤</i> <br> <br>
  <img src="https://github.com/eduardoosilva99/barbeariaok/blob/main/sistema/animacao.gif" width="220">
  <img src="https://github.com/eduardoosilva99/aplicacao/blob/main/itachi.gif" width="250" height="220">
-
+</div>
 ##
 
 ## <!--rede social-->  
