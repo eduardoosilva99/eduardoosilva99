@@ -35,7 +35,7 @@
  <img src="https://github.com/eduardoosilva99/barbeariaok/blob/main/sistema/animacao.gif" width="220">
  <img src="https://github.com/eduardoosilva99/aplicacao/blob/main/itachi.gif" width="250" height="220">
 </div>
-##
+
 
 ## <!--rede social-->  
 <div>
