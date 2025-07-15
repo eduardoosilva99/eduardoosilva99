@@ -1,7 +1,7 @@
 <h4>SE FOR DIFÍCIL EU FAÇO, SE FOR IMPOSSIVEL, ME DÁ MAIS 5 MINUTOS.</h4>
 
 - 👨‍🎓 Hoje estudo Sistema de Informação.
-- 💂‍♂️ Sou Militar.
+- 🚀 Apaixonado por tecnologia, com foco em me tornar um desenvolvedor full stack
 - 👨‍💻 Estudando HTML5, CSS3, Bootstrap, JavaScript, PHP, Python, Java, Mysql.
 
 
